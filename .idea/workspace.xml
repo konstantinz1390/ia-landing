@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2cde4789-20e2-45a5-b83d-f204952eb2fd" name="Default Changelist" comment="" />
+    <list default="true" id="2cde4789-20e2-45a5-b83d-f204952eb2fd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/main.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,17 +40,45 @@
       <option name="presentableId" value="Default" />
       <updated>1600931718301</updated>
       <workItem from="1600931719426" duration="20808000" />
-      <workItem from="1601013360259" duration="433000" />
+      <workItem from="1601013360259" duration="4521000" />
     </task>
+    <task id="LOCAL-00001" summary="Refactored styles">
+      <created>1601013933648</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601013933648</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Refactored styles" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactored styles" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="291" y="27" width="914" height="615" key="CommitChangelistDialog2" timestamp="1601013933487">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="291" y="27" width="914" height="615" key="CommitChangelistDialog2/67.27.1373.873/1440.0.1920.1080@67.27.1373.873" timestamp="1601013933487" />
+    <state x="594" y="364" key="Github.ShareDialog" timestamp="1601014226461">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="594" y="364" key="Github.ShareDialog/67.27.1373.873/1440.0.1920.1080@67.27.1373.873" timestamp="1601014226461" />
+    <state x="348" y="194" width="800" height="536" key="Vcs.Push.Dialog.v2" timestamp="1601013946168">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="348" y="194" width="800" height="536" key="Vcs.Push.Dialog.v2/67.27.1373.873/1440.0.1920.1080@67.27.1373.873" timestamp="1601013946168" />
     <state x="445" y="185" width="616" height="554" key="find.popup" timestamp="1600981686209">
       <screen x="67" y="27" width="1373" height="873" />
     </state>
     <state x="445" y="185" width="616" height="554" key="find.popup/67.27.1373.873/1440.0.1920.1080@67.27.1373.873" timestamp="1600981686209" />
+    <state x="586" y="256" width="324" height="412" key="svn.repositoryBrowser" timestamp="1601014107585">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="586" y="256" width="324" height="412" key="svn.repositoryBrowser/67.27.1373.873/1440.0.1920.1080@67.27.1373.873" timestamp="1601014107585" />
   </component>
 </project>
