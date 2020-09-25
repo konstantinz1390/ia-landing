@@ -2,13 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cde4789-20e2-45a5-b83d-f204952eb2fd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/styles/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -23,6 +32,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -40,7 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600931718301</updated>
       <workItem from="1600931719426" duration="20808000" />
-      <workItem from="1601013360259" duration="4521000" />
+      <workItem from="1601013360259" duration="15677000" />
     </task>
     <task id="LOCAL-00001" summary="Refactored styles">
       <created>1601013933648</created>
@@ -49,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601013933648</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Refactored styles">
+      <created>1601019293075</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601019293075</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -60,10 +77,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Refactored styles" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="291" y="27" width="914" height="615" key="CommitChangelistDialog2" timestamp="1601013933487">
+    <state x="291" y="27" width="914" height="615" key="CommitChangelistDialog2" timestamp="1601019293027">
       <screen x="67" y="27" width="1373" height="873" />
     </state>
-    <state x="291" y="27" width="914" height="615" key="CommitChangelistDialog2/67.27.1373.873/1440.0.1920.1080@67.27.1373.873" timestamp="1601013933487" />
+    <state x="291" y="27" width="914" height="615" key="CommitChangelistDialog2/67.27.1373.873/1440.0.1920.1080@67.27.1373.873" timestamp="1601019293027" />
     <state x="594" y="364" key="Github.ShareDialog" timestamp="1601014226461">
       <screen x="67" y="27" width="1373" height="873" />
     </state>
@@ -72,6 +89,10 @@
       <screen x="67" y="27" width="1373" height="873" />
     </state>
     <state x="348" y="194" width="800" height="536" key="Vcs.Push.Dialog.v2/67.27.1373.873/1440.0.1920.1080@67.27.1373.873" timestamp="1601013946168" />
+    <state x="3006" y="0" width="711" height="1075" key="dock-window-1" timestamp="1601030898918">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3006" y="0" width="711" height="1075" key="dock-window-1/67.27.1373.873/1440.0.1920.1080@67.27.1373.873" timestamp="1601030898918" />
     <state x="445" y="185" width="616" height="554" key="find.popup" timestamp="1600981686209">
       <screen x="67" y="27" width="1373" height="873" />
     </state>
