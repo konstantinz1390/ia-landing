@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2cde4789-20e2-45a5-b83d-f204952eb2fd" name="Default Changelist" comment="" />
+    <list default="true" id="2cde4789-20e2-45a5-b83d-f204952eb2fd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/images/first-screen-bg-375-ia.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/first-screen-bg-375-ia.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/first-screen-bg-800-ia.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/first-screen-bg-800-ia.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/first-screen-bg-ia.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/first-screen-bg-ia.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/second-screen-bg-1200-ia.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/second-screen-bg-1200-ia.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/second-screen-bg-375-1-ia.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/second-screen-bg-375-1-ia.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/second-screen-bg-375-2-ia.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/second-screen-bg-375-2-ia.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/second-screen-bg-800-ia.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/second-screen-bg-800-ia.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/second-screen-bg-ia.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/second-screen-bg-ia.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +56,7 @@
       <updated>1600931718301</updated>
       <workItem from="1600931719426" duration="20808000" />
       <workItem from="1601013360259" duration="17761000" />
+      <workItem from="1601295359875" duration="2465000" />
     </task>
     <task id="LOCAL-00001" summary="Refactored styles">
       <created>1601013933648</created>
