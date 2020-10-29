@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /fonts/*
+Disallow: /styles/*
+
+Host: http://ia-invite-page.cc.ua/
