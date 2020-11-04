@@ -311,7 +311,7 @@ html {
     }
     .page-wrapper .first-screen{
         background-image: url(../images/first-screen-bg-ia.png);
-        height: 100vh;
+        min-height: 100vh;
     }
     .page-wrapper .first-screen-content {
         padding-left: 25px;
