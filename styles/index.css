@@ -135,14 +135,53 @@ html {
     background-position: 50%;
     height: auto;
 }
+.page-wrapper .first-screen-error{
+    background-image: url(../images/404.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 48%;
+    min-height: 100vh;
+}
 .page-wrapper .first-screen-content {
     padding-left: 0;
     margin-bottom: 60px;
 }
+.page-wrapper .first-screen-content__error{
+    padding-left: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-bottom: 0;
+}
 .page-wrapper .first-screen-content__logo {
-    padding-left: 15px;
+    padding-left: 10px;
     margin-top: 15px;
     margin-bottom: 235px;
+}
+.page-wrapper .first-screen-content__logo-error {
+    margin-bottom: 180px;
+}
+.first-screen-content__button {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10vh;
+}
+.first-screen-content__button a{
+    width: 180px;
+    height: 40px;
+    border-radius: 40px;
+    font-size: 17px;
+    font-weight: bold;
+    padding-top: 4px;
+    color: white;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #3a79ee;
+    text-transform: uppercase;
 }
 .page-wrapper .first-screen-content__logo img {
     width: 120px;
@@ -233,6 +272,39 @@ html {
     visibility: hidden;
     position: absolute;
 }
+.accordion-button__wrap{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+.accordion_button {
+    width: 180px;
+    height: 40px;
+    border-radius: 40px;
+    font-size: 17px;
+    font-weight: bold;
+    padding-top: 4px;
+    color: white;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #3a79ee;
+    text-transform: uppercase;
+}
+
+.accordion {
+    padding: 0 18px;
+    color: white;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-in-out;
+}
+.action_list{
+    margin: 10px 30px;
+}
 @media only screen and (min-width: 400px) {
     .page-wrapper .second-screen-mobile .second-screen-bg-2 {
         height: 460px;
@@ -261,10 +333,16 @@ html {
         padding-left: 25px;
         margin-bottom: 60px;
     }
+    .page-wrapper .first-screen-content__error{
+        margin-bottom: 0;
+    }
     .page-wrapper .first-screen-content__logo {
         padding-left: 45px;
         margin-top: 28px;
         margin-bottom: 368px;
+    }
+    .page-wrapper .first-screen-content__logo-error {
+        margin-bottom: 200px;
     }
     .page-wrapper .first-screen-content__logo img {
         width: 175px;
@@ -301,6 +379,11 @@ html {
     .page-wrapper .second-screen-footer .second-screen-footer__text-block {
         font-size: 20px;
     }
+    .first-screen-content__button a{
+        width: 220px;
+        height: 50px;
+        font-size: 22px;
+    }
 }
 @media only screen and (min-width: 1200px) {
     .container {
@@ -321,10 +404,16 @@ html {
         padding-left: 25px;
         margin-bottom: 60px;
     }
+    .page-wrapper .first-screen-content__error{
+        margin-bottom: 0;
+    }
     .page-wrapper .first-screen-content__logo {
         padding-left: 10px;
         margin-top: 36px;
         margin-bottom: 400px;
+    }
+    .page-wrapper .first-screen-content__logo-error {
+        margin-bottom: 235px;
     }
     .page-wrapper .first-screen-content__logo img {
         width: 175px;
