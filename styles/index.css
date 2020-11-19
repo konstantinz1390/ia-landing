@@ -105,6 +105,13 @@ html {
     text-align: center;
     color: #fff;
 }
+.page-wrapper h2 {
+    font-size: 20px;
+    line-height: 35px;
+    font-weight: 600;
+    text-align: center;
+    color: #fff;
+}
 .page-wrapper .redirect-btn {
     background-color: #3a79ee;
     border-color: #3a79ee;
@@ -322,6 +329,9 @@ html {
     .page-wrapper h1 {
         font-size: 30px;
         line-height: 41px;
+    }
+    .page-wrapper h2 {
+        font-size: 25px;
     }
     .page-wrapper .first-screen{
         background-image: url(../images/first-screen-bg-800-ia.webp);
