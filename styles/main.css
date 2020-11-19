@@ -330,7 +330,7 @@ h1 {
 }
 
 .page-wrapper .first-screen {
-    background-image: url(../images/first-screen-bg-ia.png);
+    background-image: url(../images/first-screen-bg-ia.webp);
     background-repeat: no-repeat;
     background-size: auto;
     background-size: cover;
@@ -404,7 +404,7 @@ h1 {
 }
 
 .page-wrapper .second-screen-desktop {
-    background-image: url(../images/second-screen-bg-ia.png);
+    background-image: url(../images/second-screen-bg-ia.webp);
     background-repeat: no-repeat;
     background-position: 50%;
     background-size: auto;
@@ -443,7 +443,7 @@ h1 {
 
 @media (min-width: 320px) and (max-width: 375px) {
     .page-wrapper .first-screen {
-        background-image: url(../images/first-screen-bg-800-ia.png);
+        background-image: url(../images/first-screen-bg-800-ia.webp);
         background-repeat: no-repeat;
         background-size: auto;
         background-size: cover;
@@ -515,7 +515,7 @@ h1 {
 
 @media (min-width: 376px) and (max-width: 799px) {
     .page-wrapper .first-screen {
-        background-image: url(../images/first-screen-bg-ia.png);
+        background-image: url(../images/first-screen-bg-ia.webp);
         background-repeat: no-repeat;
         background-size: auto;
         background-size: cover;
@@ -583,7 +583,7 @@ h1 {
         border-right: none !important
     }
     .page-wrapper .first-screen-content__download-block .left-side:before {
-        content: url(../images/line.png);
+        content: url(../images/line.webp);
         margin: auto;
         position: absolute;
         top: -38px;
@@ -684,7 +684,7 @@ h1 {
     }
 
     .page-wrapper .second-screen-desktop {
-        background-image: url(../images/second-screen-bg-1200-ia.png);
+        background-image: url(../images/second-screen-bg-1200-ia.webp);
         background-repeat: no-repeat;
         background-position: 50%;
         background-size: auto;
@@ -730,7 +730,7 @@ h1 {
     }
 
     .page-wrapper .second-screen-desktop {
-        background-image: url(../images/second-screen-bg-800-ia.png);
+        background-image: url(../images/second-screen-bg-800-ia.webp);
         background-repeat: no-repeat;
         background-position: 50%;
         background-size: auto;
