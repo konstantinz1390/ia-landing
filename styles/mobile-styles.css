@@ -1,0 +1,13 @@
+.page-wrapper .second-screen-mobile .second-screen-bg-2 {
+    height: 460px;
+    margin-top: 460px;
+}
+
+.page-wrapper .second-screen-mobile img {
+    width: auto;
+    height: auto;
+}
+
+.first-screen-message__wrap {
+    font-size: 22px;
+}

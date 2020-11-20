@@ -1,0 +1,88 @@
+.container {
+    max-width: 800px;
+}
+
+.page-wrapper {
+    min-height: 100%;
+}
+
+.page-wrapper h1 {
+    font-size: 30px;
+    line-height: 41px;
+}
+
+.page-wrapper h2 {
+    font-size: 25px;
+}
+
+.page-wrapper .first-screen {
+    background-image: url(../images/first-screen-bg-800-ia.webp);
+}
+
+.page-wrapper .first-screen-content {
+    padding-left: 25px;
+    margin-bottom: 60px;
+}
+
+.page-wrapper .first-screen-content__error {
+    margin-bottom: 0;
+}
+
+.page-wrapper .first-screen-content__logo {
+    padding-left: 45px;
+    margin-top: 28px;
+    margin-bottom: 368px;
+}
+
+.page-wrapper .first-screen-content__logo-error {
+    margin-bottom: 175px;
+}
+
+.page-wrapper .first-screen-content__logo img {
+    width: 175px;
+    height: 85px;
+}
+
+.page-wrapper .first-screen-content__title {
+    margin-bottom: 5px;
+}
+
+.page-wrapper .first-screen-content__download-block {
+    display: flex;
+}
+
+.page-wrapper .first-screen-content__download-block .left-side {
+    padding: 23px 55px 10px 30px;
+}
+
+.page-wrapper .first-screen-content .right-side {
+    padding: 23px 30px 10px 55px;
+}
+
+.page-wrapper .second-screen-mobile {
+    display: none;
+}
+
+.page-wrapper .second-screen-desktop {
+    display: block;
+    background-size: auto;
+    background-position: 50% 100%;
+}
+
+.page-wrapper .second-screen-content__title {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 550px;
+}
+
+.page-wrapper .second-screen-content__title .first-text {
+    padding-left: 0;
+}
+
+.page-wrapper .second-screen-footer .second-screen-footer__text-block {
+    font-size: 20px;
+}
+
+.first-screen-message__wrap {
+    font-size: 30px;
+}
