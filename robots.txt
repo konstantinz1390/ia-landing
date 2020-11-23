@@ -1,6 +1,7 @@
 User-agent: *
 Allow: /styles/*
 Allow: /fonts/*
+Allow: /images/*
 
 Host: https://tradingsignals.vip/
 Sitemap: https://tradingsignals.vip/sitemap.xml
